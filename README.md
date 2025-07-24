@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&width=435&lines=Hi%2C+I'm+Dua+Habib!;Web+Developer+💻;Agentic+AI+Developer+🤖;Let's+Build+Smart+Projects!" alt="Typing SVG" />
-</p>
+
 
 # 👋 Hi, I'm Dua Habib!
 
