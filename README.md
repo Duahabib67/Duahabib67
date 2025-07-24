@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dua Habib!
+# 👋 Hi, I'm Dua Habib a Web Developer!
 
 I'm a passionate **Web Developer** and an emerging **Agentic AI Developer**, dedicated to building interactive web experiences and smart autonomous systems.  
 From elegant user interfaces to powerful AI agents, I love crafting solutions that solve real-world problems with creativity and precision.
