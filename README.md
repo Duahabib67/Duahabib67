@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Dua Habib a Web Developer!
+# 👋 Hi, I'm Dua Habib a Web and Agentic AI Developer!
 
-I'm a passionate **Web Developer** and an emerging **Agentic AI Developer**, dedicated to building interactive web experiences and smart autonomous systems.  
-From elegant user interfaces to powerful AI agents, I love crafting solutions that solve real-world problems with creativity and precision.
 
----
+I am an AI Automation Agents Developer building intelligent, automated solutions that streamline workflows, manage tasks, and provide actionable insights. Passionate about AI, machine learning, and automation, I design systems that make processes smarter, faster, and more efficient.
+
+Tech Stack & Focus: Python, AI Agents, Automation Workflows, Data-driven Solutions, Machine Learning
 
 ### 🚀 What I Do
 
@@ -50,9 +50,9 @@ From elegant user interfaces to powerful AI agents, I love crafting solutions th
 ### 🌐 Connect with Me
 
 - 💼 Fiverr: [fiverr.com/s/ak47Ag8](https://www.fiverr.com/s/ak47Ag8)
-- 🔗 LinkedIn: [linkedin.com/in/dua-habib](https://www.linkedin.com/in/dua-habib-497557301/?originalSubdomain=pk)
+- 🔗 LinkedIn: [linkedin.com/in/dua-habib](https://www.linkedin.com/in/duahabibai/)
 - 🌍 Portfolio: [portfolio-dua-habib.vercel.app](https://portfolio-dua-habib.vercel.app/)
-- 📧 Email: [duah10670@gmail.com](mailto:duah10670@gmail.com)
+- 📧 Email: [duah10670@gmail.com](mailto:duahabib.ai@gmail.com)
 - 🚀 Freelancer: [freelancer.com/u/Duahabib](https://www.freelancer.com/u/Duahabib)
 - ✨ Upwork: [upwork.com/freelancers/~01daf2251c79136a5f](https://www.upwork.com/freelancers/~01daf2251c79136a5f?mp_source=share)
 
